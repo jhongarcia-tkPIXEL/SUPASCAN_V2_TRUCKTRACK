@@ -1,0 +1,6 @@
+{
+  "name": "Seguimiento Logístico de Camiones",
+  "description": "Plataforma web de seguimiento, control logístico y confirmación de entregas en tiempo real.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
